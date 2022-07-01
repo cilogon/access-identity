@@ -4,7 +4,7 @@ ACCESS Users can:
 * (COMING SOON) Register for an ACCESS account
 * (COMING SOON) Reset an ACCESS password
 * (COMING SOON) Link an existing GitHub, Google, Microsoft, ORCID, or University account to an ACCESS account
-* (COMING SOON) Register an SSH public key
+* (COMING SOON) Register an SSH public key with ACCESS
 * (COMING SOON) Submit a helpdesk ticket for assistance with an ACCESS account
 
 ACCESS Staff and Collaborators can:
