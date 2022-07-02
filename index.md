@@ -7,6 +7,6 @@ ACCESS Users can:
 * (COMING SOON) Register an SSH public key with ACCESS
 * (COMING SOON) Submit a helpdesk ticket for assistance with an ACCESS account
 
-ACCESS Staff and Collaborators can:
+ACCESS Staff and CI Operators can:
 * (COMING SOON) Register a web application for ACCESS authentication
 * (COMING SOON) Submit a helpdesk ticket for assistance with ACCESS authentication
