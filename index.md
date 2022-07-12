@@ -1,3 +1,9 @@
+XSEDE Users:
+* Your ACCESS account is the same as your XSEDE Portal account.
+* You do not need to create a new ACCESS account.
+* You do not need to change your password.
+* You do not need to change your Duo registration.
+
 ACCESS Users can:
 * Visit the [ACCESS MATCH Portal](https://amp.ci/)
 * Learn about the [XSEDE to ACCESS](https://www.xsede.org/advancetoaccess) transition
