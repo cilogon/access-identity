@@ -1,8 +1,8 @@
 ---
-title: "ACCESS Acceptable Use Policy"
+title: "Acceptable Use"
 ---
 
-Note: This AUP is awaiting formal acceptance by the ACCESS Cybersecurity Governance Council.
+Note: This policy is awaiting formal acceptance by the ACCESS Cybersecurity Governance Council.
  
 Purpose, Scope, and Applicability
 ---------------------------------
