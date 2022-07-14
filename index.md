@@ -5,7 +5,7 @@ XSEDE Users:
 ACCESS Users can:
 * Visit the [ACCESS MATCH Portal](https://amp.ci/)
 * Learn about the [XSEDE to ACCESS](https://www.xsede.org/advancetoaccess) transition
-* View the [Acceptable Use Policy](/aup) and [Privacy Policy](/privacy) that applies to ACCESS Identity Management systems
+* View applicable [Acceptable Use](/aup) and [Privacy](/privacy) policies
 * (COMING SOON) Register for an ACCESS account
 * (COMING SOON) Modify the name, email, and/or institution associated with an ACCESS account
 * (COMING SOON) Reset an ACCESS password
