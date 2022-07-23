@@ -28,7 +28,3 @@ See [InCommon Federation Attribute Overview](https://incommon.org/federation/att
 CILogon
 -------
 ACCESS relies on identity management services provided by CILogon. Please see the [CILogon privacy policy](https://www.cilogon.org/privacy) for details.
-
-Help
-----
-Please [contact us](/help) is you have any questions or concerns.
