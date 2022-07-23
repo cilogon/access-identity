@@ -2,5 +2,7 @@ This is the source for the ACCESS Identity Management web site, which uses [GitH
 
 Edit [index.md](index.md) to update the home page.
 
+Edit the header_pages list in [_config.yml](_config.yml) to add a page to the menu.
+
 Related docs:
 * <https://github.com/ncsa/access-shib-idp>
