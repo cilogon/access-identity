@@ -5,3 +5,5 @@ header_pages:
   - help.md
   - privacy.md
   - security.md
+plugins:
+ - jekyll-redirect-from
