@@ -16,6 +16,6 @@ ACCESS Users can:
 * [Report an account compromise](/security)
 
 ACCESS Staff and CI Operators can:
-* (COMING SOON) Register a web application for ACCESS authentication
+* [Register a web application](/register-app) for ACCESS authentication
 * [Request assistance](/help) with ACCESS authentication
 * [Report a security incident](/security)
