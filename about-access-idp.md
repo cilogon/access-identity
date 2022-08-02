@@ -4,7 +4,7 @@ title: "About the ACCESS IdP"
 
 Timeline
 --------
-* August 1 2022: The ACCESS IdP is pre-production, using pre-production APIs and pre-production user data. The IdP is registered with CILogon but registration with InCommon is still in progress.
+* August 1 2022: The ACCESS IdP is pre-production, using pre-production APIs and pre-production user data. The IdP is registered with CILogon and Globus but registration with InCommon is still in progress.
 * August 23 2022: The ACCESS IdP will begin production operation.
 
 Overview
@@ -14,7 +14,7 @@ The ACCESS IdP:
 * appears as "ACCESS CI" in the list at cilogon.org, similar to how idp.xsede.org appears as "XSEDE".
 * uses the same usernames and passwords as idp.xsede.org and the same Duo MFA configuration.
 * operates under the same [privacy](/privacy) and [security](/security) policies as idp.xsede.org.
-* issues eduPersonPrincipalName (ePPN) values of username@access-ci.org.
+* asserts eduPersonPrincipalName (ePPN) values of username@access-ci.org.
 
 username@access-ci.org from idp.access-ci.org is the same person as username@xsede.org from idp.xsede.org (i.e., the same username@TERAGRID.ORG Kerberos principal).
 
