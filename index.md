@@ -17,5 +17,6 @@ ACCESS Users can:
 
 ACCESS Staff and CI Operators can:
 * [Register a web application](/register-app) for ACCESS authentication
+* [View documentation](/about-access-idp) for the ACCESS Identity Provider
 * [Request assistance](/help) with ACCESS authentication
 * [Report a security incident](/security)
