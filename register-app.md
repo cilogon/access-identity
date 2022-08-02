@@ -6,7 +6,7 @@ COmanage Web Interface
 ----------------------
 We are configuring ACCESS COmanage to support OpenID Connect web application registration and management.
 Please contact [help@cilogon.org](mailto:help@cilogon.org) for early access.
-In your email message, please specify your ACCESS affiliation
+In your email message, please specify your ACCESS affiliation:
 * RAMPS (Track 1)
 * MATCH (Track 2)
 * CONECT (Track 3)
