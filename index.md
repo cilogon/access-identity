@@ -25,3 +25,4 @@ ACCESS Staff and CI Operators can:
 * [View documentation](/about-access-idp) for the ACCESS Identity Provider
 * [Request assistance](/help) with ACCESS authentication
 * [Report a security incident](/security)
+* (COMING SOON) Configure SSH pubkey authentication for ACCESS users
