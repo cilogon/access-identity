@@ -17,3 +17,5 @@ In your email message, please specify your ACCESS affiliation:
 References
 ----------
 See <https://www.cilogon.org/oidc> for details on CILogon's support for OpenID Connect applications.
+
+See <https://identity.access-ci.org/about-access-idp> for information about using the ACCESS IdP for authentication.
