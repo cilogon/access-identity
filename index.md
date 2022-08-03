@@ -8,7 +8,7 @@ XSEDE Users:
 * You do not need to change your password or your Duo registration during the transition from XSEDE to ACCESS.
 
 ACCESS Users can:
-* Visit the [ACCESS MATCH Portal](https://amp.ci/)
+* Visit the [ACCESS Web Portal](https://access-ci.org/)
 * Learn about the [XSEDE to ACCESS](https://www.xsede.org/advancetoaccess) transition
 * View applicable [Acceptable Use](/aup) and [Privacy](/privacy) policies
 * (COMING SOON) Register for an ACCESS account
