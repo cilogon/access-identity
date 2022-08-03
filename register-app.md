@@ -5,7 +5,7 @@ title: "Register a Web App for ACCESS Auth"
 COmanage Web Interface
 ----------------------
 ACCESS uses CILogon COmanage for OpenID Connect web application registration and management.
-Please contact [help@cilogon.org](mailto:help@cilogon.org) for assistance.
+Please contact [help@cilogon.org](mailto:help@cilogon.org) to request an invitation.
 In your email message, please specify your ACCESS affiliation:
 * RAMPS (Track 1)
 * MATCH (Track 2)
