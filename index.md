@@ -4,7 +4,8 @@ Timeline:
 
 XSEDE Users:
 * Your ACCESS account is the same as your XSEDE Portal account. Please do not create a new ACCESS account.
-* XSEDE users do not need to change their password or change their Duo registration during the transition from XSEDE to ACCESS.
+* Please continue to use the [XSEDE User Portal](https://portal.xsede.org/) to manage your account until the transition from XSEDE to ACCESS is complete.
+* You do not need to change your password or your Duo registration during the transition from XSEDE to ACCESS.
 
 ACCESS Users can:
 * Visit the [ACCESS MATCH Portal](https://amp.ci/)
