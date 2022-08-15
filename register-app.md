@@ -7,7 +7,7 @@ COmanage Web Interface
 ACCESS uses CILogon COmanage for OpenID Connect (OIDC) web
 application registration and management.
 Please contact [help@cilogon.org](mailto:help@cilogon.org)
-(Subject: ACCESS OIDC client management) to request an invitation.
+(**Subject**: ACCESS OIDC client management) to request an invitation.
 In your email message, please specify your ACCESS affiliation:
 * RAMPS (Track 1)
 * MATCH (Track 2)
@@ -15,6 +15,11 @@ In your email message, please specify your ACCESS affiliation:
 * MMS (Track 4)
 * OpenCI (ACO)
 * Service Provider
+
+You will receive an email with a link to register for ACCESS COmanage.
+During the enrollment flow, we suggest you authenticate with your
+institutional/university identity provider (IdP) rather than the ACCESS CI
+IdP.
 
 After you have registered with CILogon COmanage, see [COmanage
 OIDC Clients](https://www.cilogon.org/comanage/oidc-clients) for
