@@ -16,7 +16,7 @@ In your email message, please specify your ACCESS affiliation:
 * OpenCI (ACO)
 * Service Provider
 
-You will receive an email with a link to register for ACCESS COmanage.
+You will receive an email with a link to register for CILogon COmanage.
 During the enrollment flow, we suggest you authenticate with your
 institutional/university identity provider (IdP) rather than the ACCESS CI
 IdP.
