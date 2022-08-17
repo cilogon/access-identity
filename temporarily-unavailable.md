@@ -1,5 +1,5 @@
 ---
-title: "ACCESS IdM Services Temporarily Unavailable"
+title: "IdM Services Temporarily Unavailable"
 ---
 
 ACCESS Identity Management services are temporarily unavailable.
