@@ -14,7 +14,7 @@ ACCESS Users can:
 * View applicable [Acceptable Use](/aup) and [Privacy](/privacy) policies
 * View [Frequently Asked Questions](/faq#users)
 * [Register for an ACCESS ID](/new-user)
-* [Modify the name, email, and/or institution associated with your ACCESS ID](/profile-update)
+* [Modify the name or email associated with your ACCESS ID](/profile-update)
 * [Request a reminder of your ACCESS username](/username-reminder)
 * [Reset your ACCESS password](/password-reset)
 * [Manage ACCESS Multi-Factor Authentication](/manage-mfa) (MFA)
