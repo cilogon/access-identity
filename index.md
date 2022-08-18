@@ -19,7 +19,7 @@ ACCESS Users can:
 * [Reset your ACCESS password](/password-reset)
 * [Manage ACCESS Multi-Factor Authentication](/manage-mfa) (MFA)
 * [Link (or unlink) a GitHub, Google, Microsoft, ORCID, or University account with your ACCESS ID](/id-linking)
-* (COMING SOON) Register (or unregister) an SSH public key with ACCESS
+* [Register (or unregister) an SSH public key with ACCESS](/ssh-pubkey)
 * [Request assistance](/help) with your ACCESS ID
 * [Report an account compromise](/security)
 
