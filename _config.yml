@@ -2,6 +2,7 @@ theme: minima
 title: ACCESS Identity Management
 header_pages:
   - aup.md
+  - faq.md
   - help.md
   - privacy.md
   - security.md
