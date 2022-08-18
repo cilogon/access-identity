@@ -21,4 +21,4 @@ username@access-ci.org from idp.access-ci.org is the same person as username@xse
 Transition
 ----------
 Applications (such as Globus) currently relying on username@xsede.org values from idp.xsede.org will need to migrate to username@access-ci.org values from idp.access-ci.org.
-CILogon can provide ID Tokens containing username@access-ci.org and/or username@xsede.org values on a per-application basis as needed to support a smooth transition for applications. Contact [help@cilogon.org](mailto:help@cilogon.org) for assistance.
+CILogon can provide ID Tokens containing username@access-ci.org and/or username@xsede.org values on a per-application basis as needed to support a smooth transition for applications. Contact [help@cilogon.org](mailto:help@cilogon.org) to request a custom configuration. Include your client_id in the request.
