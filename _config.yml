@@ -8,3 +8,4 @@ header_pages:
   - security.md
 plugins:
  - jekyll-redirect-from
+ - jekyll-sitemap
