@@ -13,12 +13,12 @@ ACCESS Users can:
 * Learn about the [XSEDE to ACCESS](https://www.xsede.org/advancetoaccess) transition
 * View applicable [Acceptable Use](/aup) and [Privacy](/privacy) policies
 * View [Frequently Asked Questions](/faq#users)
-* (COMING SOON) Register for an ACCESS ID
-* (COMING SOON) Modify the name, email, and/or institution associated with your ACCESS ID
-* (COMING SOON) Request a reminder of your ACCESS username
-* (COMING SOON) Reset your ACCESS password
+* [Register for an ACCESS ID](/new-user)
+* [Modify the name, email, and/or institution associated with your ACCESS ID](/profile-update)
+* [Request a reminder of your ACCESS username](/username-reminder)
+* [Reset your ACCESS password](/password-reset)
 * [Manage ACCESS Multi-Factor Authentication](/manage-mfa) (MFA)
-* (COMING SOON) Link (or unlink) a GitHub, Google, Microsoft, ORCID, or University account with your ACCESS ID
+* [Link (or unlink) a GitHub, Google, Microsoft, ORCID, or University account with your ACCESS ID](/id-linking)
 * (COMING SOON) Register (or unregister) an SSH public key with ACCESS
 * [Request assistance](/help) with your ACCESS ID
 * [Report an account compromise](/security)
