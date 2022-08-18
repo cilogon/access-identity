@@ -7,7 +7,7 @@ title: "FAQ"
 ## Users
 
 1. Can I use my existing XSEDE account with ACCESS?
-   - Yes, your ACCESS account is the same as your XSEDE Portal account. Please do not create a new ACCESS account. You do not need to change your password or your Duo registration during the transition from XSEDE to ACCESS.
+   - Yes, your ACCESS ID is the same as your XSEDE Portal account. Please do not create a new ACCESS ID. You do not need to change your password or your Duo registration during the transition from XSEDE to ACCESS.
 
 ## Admins
 
