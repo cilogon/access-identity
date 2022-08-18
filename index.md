@@ -14,12 +14,13 @@ ACCESS Users can:
 * View applicable [Acceptable Use](/aup) and [Privacy](/privacy) policies
 * View [Frequently Asked Questions](/faq#users)
 * (COMING SOON) Register for an ACCESS account
-* (COMING SOON) Modify the name, email, and/or institution associated with an ACCESS account
-* (COMING SOON) Reset an ACCESS password
+* (COMING SOON) Modify the name, email, and/or institution associated with your ACCESS account
+* (COMING SOON) Request a reminder of your ACCESS username
+* (COMING SOON) Reset your ACCESS password
 * [Manage ACCESS Multi-Factor Authentication](/manage-mfa) (MFA)
-* (COMING SOON) Link (or unlink) a GitHub, Google, Microsoft, ORCID, or University account with an ACCESS account
+* (COMING SOON) Link (or unlink) a GitHub, Google, Microsoft, ORCID, or University account with your ACCESS account
 * (COMING SOON) Register (or unregister) an SSH public key with ACCESS
-* [Request assistance](/help) with an ACCESS account
+* [Request assistance](/help) with your ACCESS account
 * [Report an account compromise](/security)
 
 ACCESS Staff and CI Operators can:
