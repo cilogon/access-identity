@@ -5,8 +5,8 @@ Timeline:
 
 XSEDE Users:
 * Your ACCESS ID is the same as your XSEDE Portal account. Please do not create a new ACCESS ID.
-* Please continue to use the [XSEDE User Portal](https://portal.xsede.org/) to manage your account until the transition from XSEDE to ACCESS is complete.
-* You do not need to change your password or your Duo registration during the transition from XSEDE to ACCESS.
+* Please continue to use the [XSEDE User Portal](https://portal.xsede.org/) to manage your account.
+* You do not need to change your password or your Duo registration for ACCESS.
 
 ACCESS Users can:
 * Visit the [ACCESS Web Portal](https://access-ci.org/)
