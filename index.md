@@ -25,7 +25,7 @@ ACCESS Users can:
 
 ACCESS Staff and CI Operators can:
 * [Register a web application](/register-app) for ACCESS authentication
-* [View documentation](/about-access-idp) for the ACCESS Identity Provider
+* View [documentation for the ACCESS Identity Provider](/about-access-idp)
 * View [Frequently Asked Questions](/faq#admins)
 * (COMING SOON) Configure SSH pubkey authentication for ACCESS users
 * [Request assistance](/help) with ACCESS authentication
