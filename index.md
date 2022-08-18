@@ -12,6 +12,7 @@ ACCESS Users can:
 * Visit the [ACCESS Web Portal](https://access-ci.org/)
 * Learn about the [XSEDE to ACCESS](https://www.xsede.org/advancetoaccess) transition
 * View applicable [Acceptable Use](/aup) and [Privacy](/privacy) policies
+* View [Frequently Asked Questions](/faq#users)
 * (COMING SOON) Register for an ACCESS account
 * (COMING SOON) Modify the name, email, and/or institution associated with an ACCESS account
 * (COMING SOON) Reset an ACCESS password
@@ -24,6 +25,7 @@ ACCESS Users can:
 ACCESS Staff and CI Operators can:
 * [Register a web application](/register-app) for ACCESS authentication
 * [View documentation](/about-access-idp) for the ACCESS Identity Provider
+* View [Frequently Asked Questions](/faq#admins)
 * (COMING SOON) Configure SSH pubkey authentication for ACCESS users
 * [Request assistance](/help) with ACCESS authentication
 * [Report a security incident](/security)
