@@ -23,11 +23,11 @@ IdP.
 
 After you have registered with CILogon COmanage, see [COmanage
 OIDC Clients](https://www.cilogon.org/comanage/oidc-clients) for
-information on registering and managing OIDC clients. Note that
-there is a "Named Configuration" available for ACCESS which
-performs special processing of the asserted claims. Be sure to
-check the appropriate checkboxes if this is a feature you want for
-your client.
+information on registering and managing OIDC clients.
+
+When registering your client, we recommend selecting "Use a Named Configuration" then choosing "ACCESS OIDC client configuration v1".
+This configuration causes the ACCESS ID with @access-ci.org to be returned as the OIDC sub claim in the id_token.
+To use this configuration, be sure to configure your client to request the following scopes: openid, email, profile, org.cilogon.userinfo
 
 References
 ----------
