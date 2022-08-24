@@ -4,5 +4,7 @@ Edit [index.md](index.md) to update the home page.
 
 Edit the header_pages list in [_config.yml](_config.yml) to add a page to the menu.
 
+Use <https://validator.w3.org/nu/?doc=https%3A%2F%2Fidentity.access-ci.org%2F> to check the HTML.
+
 Related docs:
 * <https://github.com/ncsa/access-shib-idp>
