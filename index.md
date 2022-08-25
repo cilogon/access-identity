@@ -1,7 +1,3 @@
-Timeline:
-* August 23 2022: ACCESS Identity Management begins the transition to production operation.
-* September 1 2022: ACCESS becomes fully operational.
-
 XSEDE Users:
 * Your ACCESS ID is the same as your XSEDE Portal account. Please do not create a new ACCESS ID.
 * You do not need to change your password or your Duo registration for ACCESS.
