@@ -4,7 +4,7 @@ title: "FAQ"
 
 # Frequently Asked Questions
 
-## Users
+# Users
 
 1. Can I use my existing XSEDE account with ACCESS?
    - Yes, your ACCESS ID is the same as your XSEDE Portal account. Please do not create a
@@ -24,7 +24,7 @@ title: "FAQ"
 7. I'm having trouble with Duo. How do I update my Duo configuration?
    - Please visit <https://identity.access-ci.org/manage-mfa> for instructions on managing your Duo configuration for ACCESS.
 
-## Admins
+# Admins
 
 1. Can I configure my web application to require authentication using the
    [ACCESS CI Identity Provider (IdP)](/about-access-idp)?
