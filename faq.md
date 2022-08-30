@@ -17,6 +17,12 @@ title: "FAQ"
    - Please visit <https://cilogon.org/logout> to log out of your CILogon session.
 4. How do I clear or reset my CILogon browser cookies?
    - If you are having trouble logging in, it may help to click the "Delete ALL" button at <https://cilogon.org/me/> to reset your CILogon browser cookies, then try again to log in. 
+5. I forgot my ACCESS username. Can I get a reminder?
+   - Yes, visit <https://identity.access-ci.org/username-reminder> to request a username reminder by email.
+6. I forgot my ACCESS password. Can I reset it?
+   - Yes, visit <https://identity.access-ci.org/password-reset> to reset your ACCESS password.
+7. I'm having trouble with Duo. How do I update my Duo configuration?
+   - Please visit <https://identity.access-ci.org/manage-mfa> for instructions on managing your Duo configuration for ACCESS.
 
 ## Admins
 
