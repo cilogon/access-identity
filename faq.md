@@ -23,6 +23,8 @@ title: "FAQ"
    - Yes, visit <https://identity.access-ci.org/password-reset> to reset your ACCESS password.
 7. I'm having trouble with Duo. How do I update my Duo configuration?
    - Please visit <https://identity.access-ci.org/manage-mfa> for instructions on managing your Duo configuration for ACCESS.
+8. Why doesn't my university appear in the list of identity providers?
+   - ACCESS uses identity providers from CILogon. Please visit <https://www.cilogon.org/faq> for details.
 
 # Admins
 
