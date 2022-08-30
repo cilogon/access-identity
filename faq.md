@@ -67,4 +67,4 @@ title: "FAQ"
      the CILogon team can provide the mapping.
 1. Why does my OIDC client require users to re-authenticate so frequently?
    - If you are using [mod_auth_openidc](https://github.com/zmartzone/mod_auth_openidc), please be sure to configure OIDCSessionInactivityTimeout. Visit <https://www.cilogon.org/oidc#h.p_1_IG_eaP90Ty> for details.
-   - You may also need to enable Refresh Tokens in your ([web app registration](/register-app).
+   - You may also need to enable Refresh Tokens in your [web app registration](/register-app).
