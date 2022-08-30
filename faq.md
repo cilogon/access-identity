@@ -7,12 +7,46 @@ title: "FAQ"
 ## Users
 
 1. Can I use my existing XSEDE account with ACCESS?
-   - Yes, your ACCESS ID is the same as your XSEDE Portal account. Please do not create a new ACCESS ID. You do not need to change your password or your Duo registration during the transition from XSEDE to ACCESS.
+   - Yes, your ACCESS ID is the same as your XSEDE Portal account. Please do not create a
+     new ACCESS ID. You do not need to change your password or your Duo registration
+     during the transition from XSEDE to ACCESS.
 
 ## Admins
 
-1. Can I configure my web application to require authentication using the [ACCESS IdP](/about-access-idp)?
-   - By default, when you [register your web application](/register-app), ACCESS users will be able to log in using any identity provider supported by CILogon that is linked to their ACCESS ID, and the resulting id_token will contain the user's ACCESS ID (i.e., "sub": "username@access-ci.org"). This is the recommended configuration, because it allows users to log in without needing an ACCESS-specific username and password.
-   - However, if you want to require authentication using the ACCESS IdP (e.g., to require ACCESS multi-factor authentication), please contact [help@cilogon.org](mailto:help@cilogon.org) to request this configuration to be applied to your client. Include your registered client_id in your request.
-2. Can I get a mapping from CILogon DNs to ePPN values to help with the GCSv4 to GCSv5 transition?
-   - Yes, please send a list of DNs to [help@cilogon.org](mailto:help@cilogon.org), and the CILogon team can provide the mapping.
+1. Can I configure my web application to require authentication using the
+   [ACCESS CI Identity Provider (IdP)](/about-access-idp)?
+   - By default, when you [register your web application](/register-app), ACCESS users
+     will be able to log in using any identity provider supported by CILogon that is
+     linked to their ACCESS ID, and the resulting id\_token will contain the user's ACCESS
+     ID (i.e., "sub": "username@access-ci.org"). This is the recommended configuration,
+     because it allows users to log in without needing an ACCESS-specific username and
+     password.
+   - However, if you want to require authentication using the ACCESS CI IdP (e.g., to
+     require ACCESS multi-factor authentication), please contact
+     [help@cilogon.org](mailto:help@cilogon.org) to request this configuration to be
+     applied to your client. Include your registered client\_id in your request.
+1. What is the ACCESS "Named Configuration"?
+   - When you register an OIDC client with the ACCESS COmanage Registry, is it recommended
+     you use a Named Configuraton for "ACCESS OIDC client configuration v1". This
+     configuration does the following:
+     - Registers the following [scopes](https://www.cilogon.org/oidc#h.p_PEQXL8QUjsQm):
+       openid, email, profile, org.cilogon.userinfo 
+     - Verifies that OIDC client transactions request the org.cilogon.userinfo scope
+     - Checks that the user has an ACCESS account. If so, asserts
+       "username@access-ci.org" in the "sub" claim. If not, redirects the user to
+       an appropriate error page.
+     - Checks if the user is in the "AccessDenied" group. If so, redirects the user to an
+       appropriate error page.
+1. Why does my OIDC client not show the ACCESS "skin" (i.e., CSS) when authenticating?
+   - There is a server-side configuration which automatically applies the
+     [ACCESS skin](https://cilogon.org/?skin=access) for OIDC clients with a
+     redirect_uri in the access-ci.org domain. This skin changes the CSS for the "Select
+     an Identity Provider" page, and also selects "ACCESS CI" as the initial IdP for new
+     visitors to the site. However, your OIDC client might have a redirect_uri in some
+     other domain. In this case, the ACCESS "skin" would not be applied. To fix this,
+     please contact [help@cilogon.org](mailto:help@cilogon.org) with your registered
+     client\_id and request that the ACCESS "skin" be applied to your client.
+1. Can I get a mapping from CILogon DNs to ePPN values to help with the GCSv4 to GCSv5
+   transition?
+   - Yes, please send a list of DNs to [help@cilogon.org](mailto:help@cilogon.org), and
+     the CILogon team can provide the mapping.
