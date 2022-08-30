@@ -12,7 +12,7 @@ title: "FAQ"
      during the transition from XSEDE to ACCESS.
 2. Which identity provider should I choose when logging in?
    - Select the "ACCESS CI" identity provider to log in with your ACCESS/XSEDE username and password.
-   - If you would like to log in to ACCESS using an identity provider other than "ACCESS CI", you need to link your identity from that other identity provider with your ACCESS account. Please proceed to the [identity linking](/id-linking) page for details.
+   - If you would like to log in to ACCESS using an identity provider other than "ACCESS CI", you need to link your identity from that other identity provider with your ACCESS ID. Please proceed to the [identity linking](/id-linking) page for details.
 3. How do I log out?
    - Please visit <https://cilogon.org/logout> to log out of your CILogon session.
 4. How do I clear or reset my CILogon browser cookies?
