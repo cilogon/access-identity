@@ -2,10 +2,13 @@
 title: "Error: User Not Registered with ACCESS"
 ---
 
-This error occurs when ACCESS can not locate the user in the ACCESS User Database when logging in.
+This error occurs when ACCESS can not locate your entry in the ACCESS User Database when logging in.
 
-It may be a temporary error caused by a system outage. Please wait a few minutes and try again.
+If you have an ACCESS or XSEDE account:
+* Please do not create a new ACCESS account.
+* Please click the "Delete ALL" button at <https://cilogon.org/me/> and try again.
+* Select the "ACCESS CI" identity provider to log in with your ACCESS/XSEDE username and password.
+* If you would like to log in to ACCESS using an identity provider other than "ACCESS CI", you need to link your identity from that other identity provider with your ACCESS account. Please proceed to the [identity linking](/id-linking) page for details.
 
-Do you have an ACCESS user account? If not, [please register](/new-user).
-
-Do you want to log in with an external federated identity that is not yet linked with your ACCESS user account? If yes, please proceed with [identity linking](/id-linking).
+If you do not already have an ACCESS or XSEDE account:
+* Please [register](/new-user).
