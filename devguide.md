@@ -16,9 +16,8 @@ Use the "Login with ACCESS" button (COMING SOON) with alt text of "Login with AC
 Links
 -----
 We recommend the following text/links when incorporating additional ACCESS identity management functionality into your web sites.
-* [Reset ACCESS Password](https://identity.access-ci.org/password-reset)
-* [Forgot ACCESS Password?](https://identity.access-ci.org/password-reset)
 * [Forgot ACCESS ID?](https://identity.access-ci.org/username-reminder)
+* [Forgot ACCESS Password?](https://identity.access-ci.org/password-reset)
 * [Register for a new ACCESS ID](https://identity.access-ci.org/new-user)
 * [ACCESS ID and Password FAQ](https://identity.access-ci.org/faq)
 
