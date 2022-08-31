@@ -10,20 +10,22 @@ title: "FAQ"
    - Yes, your ACCESS ID is the same as your XSEDE Portal account. Please do not create a
      new ACCESS ID. You do not need to change your password or your Duo registration
      during the transition from XSEDE to ACCESS.
-2. Which identity provider should I choose when logging in?
+1. Which identity provider should I choose when logging in?
    - Select the "ACCESS CI" identity provider to log in with your ACCESS/XSEDE username and password.
    - If you would like to log in to ACCESS using an identity provider other than "ACCESS CI", you need to link your identity from that other identity provider with your ACCESS ID. Please proceed to the [identity linking](/id-linking) page for details.
-3. How do I log out?
+1. How do I log out?
    - Please visit <https://cilogon.org/logout> to log out of your CILogon session.
-4. How do I clear or reset my CILogon browser cookies?
+1. How do I clear or reset my CILogon browser cookies?
    - If you are having trouble logging in, it may help to click the "Delete ALL" button at <https://cilogon.org/me/> to reset your CILogon browser cookies, then try again to log in. 
-5. I forgot my ACCESS username. Can I get a reminder?
+1. How do I view information about my authenticated identity?
+   - Visit <https://cilogon.org/me/> to view the "Session Variables" associated with your authenticated identity, including your selected identity provider.
+1. I forgot my ACCESS username. Can I get a reminder?
    - Yes, visit <https://identity.access-ci.org/username-reminder> to request a username reminder by email.
-6. I forgot my ACCESS password. Can I reset it?
+1. I forgot my ACCESS password. Can I reset it?
    - Yes, visit <https://identity.access-ci.org/password-reset> to reset your ACCESS password.
-7. I'm having trouble with Duo. How do I update my Duo configuration?
+1. I'm having trouble with Duo. How do I update my Duo configuration?
    - Please visit <https://identity.access-ci.org/manage-mfa> for instructions on managing your Duo configuration for ACCESS.
-8. Why doesn't my university appear in the list of identity providers?
+1. Why doesn't my university appear in the list of identity providers?
    - ACCESS uses identity providers from CILogon. Please visit <https://www.cilogon.org/faq> for details.
 
 # Admins
