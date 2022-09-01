@@ -4,7 +4,6 @@ XSEDE Users:
 
 ACCESS Users can:
 * Visit the [ACCESS Web Portal](https://access-ci.org/)
-* Learn about the [XSEDE to ACCESS](https://www.xsede.org/advancetoaccess) transition
 * View applicable [Acceptable Use](/aup) and [Privacy](/privacy) policies
 * View [Frequently Asked Questions](/faq#users)
 * [Register for an ACCESS ID](/new-user)
