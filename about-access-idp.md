@@ -13,6 +13,10 @@ The ACCESS IdP:
 
 username@access-ci.org from idp.access-ci.org is the same person as username@xsede.org from idp.xsede.org (i.e., the same username@TERAGRID.ORG Kerberos principal).
 
+For InCommon SAML SPs
+---------------------
+The SAML metadata for idp.access-ci.org is not yet published by InCommon. Please manually fetch the metadata from <https://identity.access-ci.org/access-metadata.xml> and configure it in a local file until we can complete the InCommon publication process.
+
 Transition
 ----------
 Applications previously relying on username@xsede.org values from idp.xsede.org should migrate to username@access-ci.org values from idp.access-ci.org.
