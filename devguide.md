@@ -7,7 +7,7 @@ The goal is to provide a uniform and consistent process for users to sign in acr
 
 Apps
 ----
-Please see the [app registration](/registery-app) page for details on registering a web application for ACCESS authentication.
+Please see the [app registration](/register-app) page for details on registering a web application for ACCESS authentication.
 
 Login
 ------
