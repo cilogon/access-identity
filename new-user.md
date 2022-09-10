@@ -13,6 +13,7 @@ Registration Tips
 To avoid problems during registration, please:
 1. Do not exit your browser during the registration process. If you exit in the middle of the registration process, you'll need to [contact us](/help) for assistance.
 2. Be sure to complete the email verification. You will receive an email from registry@cilogon.org containing a URL that you need to open to complete your registration. If you don't receive the email in your inbox, please check your spam folder. If you fail to complete the email verification, you'll need to [contact us](/help) for assistance.
+3. Copy the email registration URL from your email client to open in your trusted web browser. Do not open the URL directly in your email client, because that may use a "lightweight web browser" that will fail to complete your registration.
 
 Two Options for New User Registration
 -------------------------------------
