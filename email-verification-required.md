@@ -11,5 +11,5 @@ Follow the instructions in that message to continue your registration.
 If after one (1) hour you have not received the email verification
 request in your inbox please check your SPAM folder.
 
-If you still cannot find the email verification request please
+If you still cannot find the email verification request
 please [contact us](https://support.access-ci.org/form/account-assistance).
