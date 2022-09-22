@@ -31,6 +31,8 @@ To use this configuration, be sure to configure your client to request the follo
 
 References
 ----------
+See <https://identity.access-ci.org/devguide> for developer recommendations when integrating with ACCESS identity management services.
+
 See <https://www.cilogon.org/oidc> for details on CILogon's support for OpenID Connect applications.
 
 See <https://www.cilogon.org/comanage/oidc-clients> for
