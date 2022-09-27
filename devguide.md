@@ -15,6 +15,8 @@ Please refer to the following brief style guide for styling the "Login with ACCE
 
 ![Login with ACCESS - Style Guide](/ACCESS_Login_Button.jpg)
 
+Additional details are provided in [Adobe XD](https://xd.adobe.com/view/d332fba6-6d51-4436-bacd-c807f991e5f7-8661/).
+
 Links
 -----
 We recommend the following text/links when incorporating additional ACCESS identity management functionality into your web sites.
