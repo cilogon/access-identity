@@ -11,7 +11,7 @@ Please see the [app registration](/register-app) page for details on registering
 
 Login
 ------
-Please refer to the following brief style guide for styling the "Login with ACCESS" button on your site. Within this guide you'll find the appropriate styling that is cohesive with the main ACCESS site which uses the ACCESS yellow, dark grey, and Archivo Narrow font (see: [Archivo_Narrow-FONT.zip](/Archivo_Narrow-FONT.zip)). Adhering to this styling allows the ACCESS brand to remain cohesive and operate within the best practices of UI/web design and development.
+Please refer to the following brief style guide for styling the "Login with ACCESS" button on your site. Within this guide you'll find the appropriate styling that is cohesive with the main ACCESS site which uses the ACCESS yellow, dark grey, and Archivo Narrow font (see: [Archivo_Narrow-FONT.zip](/Archivo_Narrow-FONT.zip)). Adhering to this styling allows the ACCESS brand to remain cohesive and operate within the best practices of UI/web design and development. In a departure from XSEDE, the ACCESS UI team has decided that providing raster-based buttons isn't within the best practice for how we design and develop UI for sites. Instead, buttons and other UI elements should be included as part of the code, according to the following style guide.
 
 ![Login with ACCESS - Style Guide](/ACCESS_Login_Button.jpg)
 
