@@ -27,6 +27,10 @@ title: "FAQ"
    - Please visit <https://identity.access-ci.org/manage-mfa> for instructions on managing your Duo configuration for ACCESS.
 1. Why doesn't my university appear in the list of identity providers?
    - ACCESS uses identity providers from CILogon. Please visit <https://www.cilogon.org/faq> for details.
+1. How do I change the organization listed in my ACCESS profile?
+   - Please [open a ticket](https://support.access-ci.org/open-a-ticket) to request the change.
+1. I accidentially created multiple ACCESS IDs. Can I merge them?
+   - Yes, please [open a ticket](https://support.access-ci.org/open-a-ticket) indicating which ACCESS ID you want to continue using and which one(s) you want marked as duplicate.
 
 # Admins
 
