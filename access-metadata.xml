@@ -13,7 +13,7 @@
             <shibmd:Scope regexp="false">access-ci.org</shibmd:Scope>
 
             <mdui:UIInfo>
-                <mdui:DisplayName xml:lang="en">ACCESS</mdui:DisplayName>
+                <mdui:DisplayName xml:lang="en">ACCESS CI</mdui:DisplayName>
                 <mdui:Description xml:lang="en">Advanced Cyberinfrastructure Coordination Ecosystem: Services &amp; Support</mdui:Description>
                 <mdui:Logo height="50" width="304">https://idp.access-ci.org/idp/images/logo.png</mdui:Logo>
             </mdui:UIInfo>
