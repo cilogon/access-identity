@@ -5,6 +5,7 @@ title: "ACCESS User Registration"
 Avoid Creating Duplicate Accounts
 ---------------------------------
 If you already have an XSEDE or ACCESS account, please do not create another one.
+Select the "ACCESS CI (XSEDE)" identity provider to log on using your existing XSEDE/ACCESS account.
 You can [request a username reminder](/username-reminder) and/or [reset your password](/password-reset) to continue using an existing account.
 If you're having trouble accessing an existing account, please [contact us](/help) rather than creating another one.
 
