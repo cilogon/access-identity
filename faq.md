@@ -33,6 +33,9 @@ title: "FAQ"
    - Please [open a ticket](https://support.access-ci.org/open-a-ticket) to request the change.
 1. I accidentially created multiple ACCESS IDs. Can I merge them?
    - Yes, please [open a ticket](https://support.access-ci.org/open-a-ticket) indicating which ACCESS ID you want to continue using and which one(s) you want marked as duplicate.
+1. I'm having trouble logging in to an ACCESS Resource Provider. How can I get assistance?
+   - Please review [ACCESS RP Documentation](https://access-ci.atlassian.net/wiki/x/HQmTB) for login details and support contacts for each resource provider.
+   - If you're not able to get assistance directly from the resource provider, please [open a ticket](https://support.access-ci.org/open-a-ticket) with ACCESS.
 
 # Admins
 
