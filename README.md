@@ -7,7 +7,7 @@ This is the source for the ACCESS Identity Management web site, which uses [GitH
 
 Edit [index.md](index.md) to update the home page.
 
-Edit the header_pages list in [_config.yml](_config.yml) to add a page to the menu.
+~~Edit the header_pages list in [_config.yml](_config.yml) to add a page to the menu.~~ (Menu replaced by ACCESS Universal NAV.)
 
 Use <https://validator.w3.org/nu/?doc=https%3A%2F%2Fidentity.access-ci.org%2F> to check the HTML.
 
