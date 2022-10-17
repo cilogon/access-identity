@@ -7,11 +7,11 @@ This is the source for the ACCESS Identity Management web site, which uses [GitH
 
 Edit [index.md](index.md) to update the home page.
 
-Edit the header_pages list in [_config.yml](_config.yml) to add a page to the menu.
+~~Edit the header_pages list in [_config.yml](_config.yml) to add a page to the menu.~~ (Menu replaced by ACCESS Universal NAV.)
 
 Use <https://validator.w3.org/nu/?doc=https%3A%2F%2Fidentity.access-ci.org%2F> to check the HTML.
 
 Related docs:
-* <https://github.com/ncsa/access-shib-idp>
+* <https://github.com/access-ci-org/access-shib-idp>
 
 This material is based upon work supported by the National Science Foundation under Grant No. [2138307](https://nsf.gov/awardsearch/showAward?AWD_ID=2138307). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.

@@ -1,3 +1,5 @@
+![If you have XSEDE credentials and you are trying to log in to an ACCESS site, please choose ACCESS CI as your identity provider, and use your XSEDE credentials to log in.](/access-login-infographic.jpg)
+
 XSEDE Users:
 * Your ACCESS ID is the same as your XSEDE Portal account. Please do not create a new ACCESS ID.
 * You do not need to change your password or your Duo registration for ACCESS.

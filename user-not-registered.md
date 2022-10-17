@@ -12,3 +12,5 @@ If you have an ACCESS or XSEDE account:
 
 If you do not already have an ACCESS or XSEDE account:
 * Please [register](/new-user).
+
+![If you have XSEDE credentials and you are trying to log in to an ACCESS site, please choose ACCESS CI as your identity provider, and use your XSEDE credentials to log in.](/access-login-infographic.jpg)

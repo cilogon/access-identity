@@ -1,10 +1,16 @@
 ---
 title: "ACCESS User Registration"
 ---
+XSEDE Users
+-----------
+* Your ACCESS ID is the same as your XSEDE Portal account. Please do not create a new ACCESS ID.
+* You do not need to change your password or your Duo registration for ACCESS.
+* Select the "ACCESS CI (XSEDE)" identity provider to log on using your XSEDE account.
 
 Avoid Creating Duplicate Accounts
 ---------------------------------
 If you already have an XSEDE or ACCESS account, please do not create another one.
+Select the "ACCESS CI (XSEDE)" identity provider to log on using your existing XSEDE/ACCESS account.
 You can [request a username reminder](/username-reminder) and/or [reset your password](/password-reset) to continue using an existing account.
 If you're having trouble accessing an existing account, please [contact us](/help) rather than creating another one.
 
@@ -21,3 +27,5 @@ If you don't already have an XSEDE or ACCESS account, there are two registration
 1. [Register with an existing identity](/new-user-federated): Using an existing University account when registering with ACCESS simplifies the sign-up process and enables you to log in to ACCESS using that existing account. With this option, creating an ACCESS-specific password is optional during registration, and you will also have the option to create an ACCESS-specific password later if needed.
   - If your University is not included in the listing or you have trouble logging in with your University account, please use the other registration option.
 2. [Register without an existing identity](/new-user-direct): With this option, you'll be prompted to enter all your registration info and select an ACCESS-specific password. You can [link](/link) a GitHub, Google, Microsoft, ORCID, or University account later if desired.
+
+![If you have XSEDE credentials and you are trying to log in to an ACCESS site, please choose ACCESS CI as your identity provider, and use your XSEDE credentials to log in.](/access-login-infographic.jpg)
