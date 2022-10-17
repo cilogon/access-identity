@@ -18,7 +18,7 @@ title: "FAQ"
 1. How do I clear or reset my CILogon browser cookies?
    - If you are having trouble logging in, it may help to click the "Delete ALL" button at <https://cilogon.org/me/> to reset your CILogon browser cookies, then try again to log in. 
 1. How do I view information about my authenticated identity?
-   - Visit <https://cilogon.org/me/> to view the "Session Variables" associated with your authenticated identity, including your selected identity provider.
+   - Visit [https://cilogon.org/me/](https://cilogon.org/me/?hide=browser,environment) to view the "Session Variables" associated with your authenticated identity, including your selected identity provider.
 1. I forgot my ACCESS username. Can I get a reminder?
    - Yes, visit <https://identity.access-ci.org/username-reminder> to request a username reminder by email.
 1. I forgot my ACCESS password. Can I reset it?
