@@ -23,7 +23,7 @@ Alternatively, you can download the metadata from <https://identity.access-ci.or
 
 For OIDC Clients
 ---------------------
-Please see the [app registration] page for details on registering an OpenID Connect (OIDC) web application for ACCESS authentication.
+Please see the [app registration](/register-app) page for details on registering an OpenID Connect (OIDC) web application for ACCESS authentication.
 
 Transition
 ----------
