@@ -9,6 +9,23 @@ Apps
 ----
 Please see the [app registration](/register-app) page for details on registering a web application for ACCESS authentication.
 
+SSO
+---
+ACCESS identity management services provide single sign-on (SSO) for registered web applications.
+Once a user has logged in to ACCESS in their web browser, they should not be prompted again for their password or Duo MFA for **18 hours**.
+
+ACCESS uses an `access_ci_sso` cookie as a hint to indicate that a user has logged in to ACCESS.
+The cookie has access permissions for any subdomain under access-ci.org.
+ACCESS sites set the cookie upon successful login and clear the cookie on logout.
+The cookie has an 18 hour lifetime to match the ACCESS SSO session length.
+
+This allows other ACCESS sites to automatically begin the login process on first page load if the cookie is set,
+and the login should be seamless due to SSO,
+without requiring the user to click the "Login with ACCESS" button or re-enter their password or Duo MFA.
+The cookie does not contain any information except whether there has been a successful login recently.
+It is just a hint about whether an attempted automatic login would be able to proceed without user input
+and would not contain any credential information.
+
 Login
 ------
 Please refer to the following brief style guide for styling the "Login with ACCESS" button on your site. Within this guide you'll find the appropriate styling that is cohesive with the main ACCESS site which uses the ACCESS yellow, dark grey, and Archivo Narrow font (see: [Archivo_Narrow-FONT.zip](/Archivo_Narrow-FONT.zip)). Adhering to this styling allows the ACCESS brand to remain cohesive and operate within the best practices of UI/web design and development. In a departure from XSEDE, the ACCESS UI team has decided that providing raster-based buttons isn't within the best practice for how we design and develop UI for sites. Instead, buttons and other UI elements should be included as part of the code, according to the following style guide.
