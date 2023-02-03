@@ -18,7 +18,7 @@ ACCESS uses an `access_ci_sso` cookie as a hint to indicate that a user has logg
 The cookie has access permissions for any subdomain under access-ci.org.
 ACCESS sites set the cookie upon successful login and clear the cookie on logout.
 The cookie has an 18 hour lifetime to match the ACCESS SSO session length.
-On logout, ACCESS sites should also initiate a CILogon session logout. See the [Logout](#Logout) section below for details.
+On logout, ACCESS sites should also initiate a CILogon session logout. See the [Logout](#logout) section below for details.
 
 This allows other ACCESS sites to automatically begin the login process on first page load if the cookie is set,
 and the login should be seamless due to SSO,
