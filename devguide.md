@@ -15,6 +15,7 @@ ACCESS identity management services provide single sign-on (SSO) for registered 
 Once a user has logged in to ACCESS in their web browser, they should not be prompted again for their password or Duo MFA for **18 hours**.
 
 ACCESS uses an `access_ci_sso` cookie as a hint to indicate that a user has logged in to ACCESS.
+Additionally, ACCESS uses the absence of the `access_ci_sso` cookie as a hint to indicate that a user has logged out of ACCESS.
 The cookie has access permissions for any subdomain under access-ci.org.
 ACCESS sites set the cookie upon successful login and clear the cookie on logout.
 The cookie has an 18 hour lifetime to match the ACCESS SSO session length.
@@ -26,6 +27,14 @@ without requiring the user to click the "Login with ACCESS" button or re-enter t
 The cookie does not contain any information except whether there has been a successful login recently.
 It is just a hint about whether an attempted automatic login would be able to proceed without user input
 and would not contain any credential information.
+
+After the user has logged in, sites should check on subsequent page loads if the cookie has been removed by another site,
+indicating that the user has initiated logout on another ACCESS site.
+Since we want consistent logout across all ACCESS sites, removing the cookie should trigger a local logout at each ACCESS site.
+
+In summary:
+* If the `access_ci_sso` cookie is present and the user isn't logged in to the local site, trigger a login flow.
+* If the `access_ci_sso` cookie is present and the user is logged in to the local site, trigger a logout flow.
 
 Login
 ------
