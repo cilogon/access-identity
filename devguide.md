@@ -34,7 +34,7 @@ Since we want consistent logout across all ACCESS sites, removing the cookie sho
 
 In summary:
 * If the `access_ci_sso` cookie is present and the user isn't logged in to the local site, trigger a login flow.
-* If the `access_ci_sso` cookie is present and the user is logged in to the local site, trigger a logout flow.
+* If the `access_ci_sso` cookie is absent and the user is logged in to the local site, trigger a logout flow.
 
 Login
 ------
