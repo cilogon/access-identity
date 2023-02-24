@@ -40,7 +40,7 @@ Logout
 When a user selects logout on an ACCESS site, the site should:
 * Clear any site-specific session.
 * Delete the `access_ci_sso` cookie (see above).
-* Redirect the user's browser to <https://cilogon.org/logout> to terminate the user's CILogon session.
+* Redirect the user's browser to <https://cilogon.org/logout/?skin=access> to terminate the user's CILogon session.
 
 This will ensure that SSO sessions are terminated consistently across ACCESS sites.
 
