@@ -29,7 +29,7 @@ When registering your client, we recommend selecting "Use a Named Configuration"
 This configuration causes the ACCESS ID with @access-ci.org to be returned as the OIDC sub claim in the id_token.
 To use this configuration, be sure to configure your client to request the following scopes: openid, email, profile, org.cilogon.userinfo
 
-To update your client registration later, visit <https://registry-test.access-ci.org/> 
+To update your client registration later, visit <https://registry.access-ci.org/> 
 and log in using the institutional/university identity provider (IdP) that you previously used for enrollment.
 Select "OIDC Clients" from the left menu, then click the "Edit" button next to the client ID of the client configuration you wish to change.
 If you do not see the "OIDC Clients" menu item, please contact [help@cilogon.org](mailto:help@cilogon.org).
