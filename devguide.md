@@ -53,6 +53,13 @@ When a user selects logout on an ACCESS site, the site should:
 
 This will ensure that SSO sessions are terminated consistently across ACCESS sites.
 
+Errors
+------
+Web applications using ACCESS SSO should be prepared to handle a standard
+[OpenID Connect Authentication Error Response](https://openid.net/specs/openid-connect-core-1_0.html#AuthError).
+To generate an error response for testing purposes, use a `response_type=error` parameter.
+For example: <https://cilogon.org/authorize?client_id=cilogon%3A/client_id/447a035ef16030a50c48dad48d64e645&response_type=error&scope=openid&redirect_uri=https%3A//operations.access-ci.org/openid-connect/accessci>
+
 Links
 -----
 We recommend the following text/links when incorporating additional ACCESS identity management functionality into your web sites.
